@@ -4,7 +4,7 @@
 - Backend Engineer / Data Analysis
 - B.S in Computer Science & Engineering, Chungnam Nat'l Univ.
 
-<img style="height: 150px; display: inline-block" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=BHwi"> <img style="height: 150px; display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHwi&layout=compact&theme=flag-india" alt="BADGE"/> <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=BHwi&show_icons=true&theme=material-palenight" alt="STATUS"/>
+<img style="height: 120px; display: inline-block" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=BHwi"> <img style="height: 120px; display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHwi&layout=compact&theme=flag-india" alt="BADGE"/> <img style="height: 120px;" src="https://github-readme-stats.vercel.app/api?username=BHwi&show_icons=true&theme=material-palenight" alt="STATUS"/>
 
 ### 📒 Stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="BADGE"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" alt="BADGE"/>
