@@ -19,19 +19,19 @@
 
 ## Activities
 #### NHN Academy (Java Backend)
-  - NHN Academy, Korea / Chungnam National University, Daejeon, Korea
+  - NHN Academy, Korea / Chungnam Nat'l Univ., Daejeon, Korea
   - Project: No24 Bookstore
     - Service: https://no24.store
     - Github: https://github.com/nhnacademy-be5-no24
   - Jan. 2024 - May. 2024
 
 #### System Programmer Group Leader and Educator
-- Dept. of Computer Science and Engineering, Chungnam National University, Daejeon, Korea <br>
+- Dept. of Computer Science and Engineering, Chungnam Nat'l Univ., Daejeon, Korea <br>
   (Prof. Hyungshin Kim)
 - Jan. 2022 - Dec. 2023
 
 #### Undergraduate Research Assistant at Programming Languages and Systems Lab 
-- Dept. of Computer Science and Engineering, Chungnam National University, Daejeon, Korea <br>
+- Dept. of Computer Science and Engineering, Chungnam Nat'l Univ., Daejeon, Korea <br>
   (Advisor: Prof. Eun-Sun Cho)
 - Sep. 2023 - Dec. 2023
 
@@ -40,7 +40,7 @@
 - Mar. 2023 - Aug. 2023
 
 #### Global AI / SW Talent Track 
-- Dept. of Computer and Information Technology, Purdue University, Indiana, U.S.<br>
+- Dept. of Computer and Information Technology, Purdue Univ., Indiana, U.S.<br>
   (Advisor: Prof. Eric T. Matson and Prof. Anthony H. Smith)
 - Apr. 2022 - Feb. 2023
 
