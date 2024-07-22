@@ -5,7 +5,7 @@
 - B.S in Computer Science & Engineering, Chungnam Nat'l Univ.
 
 <div style="display:flex; justify-content: between;">
-      <img style="height: 120px; display: inline-block" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=BHwi"> 
+      <img style="height: 120px; display: inline-block" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=BHwi"> 
       <img style="height: 120px; display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHwi&layout=compact&theme=flag-india" alt="BADGE"/> 
       <img style="height: 120px;" src="https://github-readme-stats.vercel.app/api?username=BHwi&show_icons=true&theme=material-palenight" alt="STATUS"/>
 </div>
