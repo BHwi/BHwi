@@ -59,7 +59,7 @@
   - The competition focused on autonomous driving AI technology, where participants developed and optimized machine learning models for AWS DeepRacer, a 1/18th scale autonomous car.
 
 #### 2023 Software / Artificial Intelligence Project Fair
-  - Chungnam Nat'l Unive., Daejeon, Korea
+  - Chungnam Nat'l Univ., Daejeon, Korea
   - Jun. 2023
   - Achieved Encouragement Prize
   - Awarded a project presentation competition under the theme of 'Reinforcement Learning-based Autonomous Driving Racing Model Using AWS Deepracer'
