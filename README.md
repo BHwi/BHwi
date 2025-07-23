@@ -63,4 +63,4 @@
 - https://ieeexplore.ieee.org/document/10316981
 
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbhwi?color=blue&label=hits&size=medium)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbhwi?color=blue&label=hits&size=small)](https://myhits.vercel.app)
