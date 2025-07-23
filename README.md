@@ -9,6 +9,7 @@
     - Constrained Resource Management
     - Large Language Model (LLM) (especially MoE)
 - B.S in Computer Science & Engineering at Chungnam Nat'l Univ.
+  - GPA: 4.02 / 4.50
 
 <div style="display:flex; justify-content: between;">
       <img style="height: 120px; display: inline-block" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=BHwi"> 
@@ -29,12 +30,45 @@
 ### ✉️ Contact
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/byeonghwi-park-0a8787233/)
 
+## 🏆 Awards
+#### 2024 Chuncheon AWS DeepRacer Championship - Autonomous Driving AI Fusion Competition
+  - Ganwon Information & Culture Industry Promotion Agency, Chuncheon (Sponsored by Amazon Web Services(AWS))
+  - Sep. 2024
+  - Achieved 1st place (Grand Prize)
+  - The competition focused on autonomous driving AI technology, where participants developed and optimized machine learning models for AWS DeepRacer, a 1/18th scale autonomous car.
+  - <a href="https://daehannews.kr/mobile/article.html?no=512138">[News Link]</a>
 
-## Activities
+#### CNU & NHN Acacdemy Project Competition
+  - NHN Academy, Korea / Chungnam Nat'l Univ., Daejeon, Korea
+  - May. 2024
+  - Achieved 1st place (Grand Prize)
+  - Our team (Team No. 24) developed a high-performing backend service, which was recognized for its innovation and technical excellence in the final project assessment.
+  - <a href="https://sites.google.com/g.cnu.ac.kr/nhn/%EC%A7%80%EB%82%9C%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95/4%EA%B8%B0-%EA%B5%90%EC%9C%A1%EC%9A%B4%EC%98%81%EC%A2%85%EB%A3%8C">[CNU-NHN Link]</a>
+
+#### 2024 AWS DeepRacer Autonomous Vehicle Hackathon Competition at DSC Platform Univ.
+  - Daejeon Sejong Chungnam (DSC) Platform Univ., Daejeon, Korea
+  - Feb. 2024
+  - Achieved 1st place (Grand Prize) (Team: 졸프꺾기)
+  - The competition focused on autonomous driving AI technology, where participants developed and optimized machine learning models for AWS DeepRacer, a 1/18th scale autonomous car.
+  - <a href="https://www.yhtoday.co.kr/news/articleView.html?idxno=23748">[News Link]</a>
+
+#### 2023 AI Convergence Autonomous Driving Competition AWS DeepRacer Championship
+  - Incheon Technopark, Korea
+  - Oct. 2023
+  - Achieved 6th place out of 8 teams (Team: Tokyo Drift)
+  - The competition focused on autonomous driving AI technology, where participants developed and optimized machine learning models for AWS DeepRacer, a 1/18th scale autonomous car.
+
+#### 2023 Software / Artificial Intelligence Project Fair
+  - Chungnam Nat'l Unive., Daejeon, Korea
+  - Jun. 2023
+  - Achieved Encouragement Prize
+  - Awarded a project presentation competition under the theme of 'Reinforcement Learning-based Autonomous Driving Racing Model Using AWS Deepracer'
+
+## 📒 Activities
 #### NHN Academy (Java Backend)
   - NHN Academy, Korea / Chungnam Nat'l Univ., Daejeon, Korea
   - Project: No24 Bookstore
-    - Service: https://no24.store
+    - Service: https://no24.store (terminated)
     - Github: https://github.com/nhnacademy-be5-no24
   - Jan. 2024 - May. 2024
 
