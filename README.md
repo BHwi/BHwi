@@ -4,7 +4,10 @@
 - Research on Real-time System for AI
 - M.S in Artificial Intelligence at Daegu Gyeongbuk Institute of Science and Technology (DGIST) (in progress)
   - <a href="https://rtcl.dgist.ac.kr">Real-time Computing Lab (RTCL)</a> (Advisor: Prof. Hoon Sung Chwa)
-  - Research Interest: Real-time AI, Constrained Resource Management, Large Language Model (LLM) (especially MoE)
+  - Research Interest
+    - Real-time AI
+    - Constrained Resource Management
+    - Large Language Model (LLM) (especially MoE)
 - B.S in Computer Science & Engineering at Chungnam Nat'l Univ.
 
 <div style="display:flex; justify-content: between;">
