@@ -1,8 +1,10 @@
 ## 👋 Hello, i'm Byeonghwi Park
 
-### 🧑‍💻 Software Engineer
-- Backend Engineer / Data Analysis
-- B.S in Computer Science & Engineering, Chungnam Nat'l Univ.
+### 🧑‍💻 What I do
+- Research on Real-time System for AI
+- M.S in Artificial Intelligence at Daegu Gyeongbuk Institute of Science and Technology (DGIST) (in progress)
+  - <a href="https://rtcl.dgist.ac.kr">Real-time Computing Lab (RTCL)</a> (Advisor: Prof. Hoon Sung Chwa)
+- B.S in Computer Science & Engineering at Chungnam Nat'l Univ.
 
 <div style="display:flex; justify-content: between;">
       <img style="height: 120px; display: inline-block" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=BHwi"> 
@@ -61,4 +63,4 @@
 - https://ieeexplore.ieee.org/document/10316981
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbhwi&count_bg=%233DB1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbhwi?color=blue&label=hits&size=medium)](https://myhits.vercel.app)
